@@ -22,7 +22,7 @@ for (let i = 1; i < 101; i++){
     }    
     else {
         console.log(i);
-        div.append("i");
+        div.append(i);
         div.classList.add("blue");
     } 
     
